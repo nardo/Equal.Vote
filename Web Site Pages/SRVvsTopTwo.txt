@@ -1,0 +1,27 @@
+<p id="california"><strong>The Top Two</strong><br /><br />California and Washington created a new kind of primary system to fix the partisan primary exclusion inequality. Instead of segregating us by major party (or not), all the voters get a primary ballot that shows all the candidates, and the top two who get the most votes advance to the general election regardless of party.</p>
+
+<p><img src="TopTwo.jpg" alt="TopTwo.jpg" /></p>
+
+<p>The vote between the top two is always equal. But what about the first stage? <strong>California's version of the top two has no requirement of equality</strong> in the primary vote. Instead, the California law actually <a href="endnotes#californiapurpose">reinforces the one choice limit</a>, and so magnifies the spoiler effect inequality that compels "lesser evil" voting.</p>
+
+<img src="Six_candidates.jpg" alt="Six_candidates.jpg" />
+
+<p>As a result, Californians have experienced directly the pernicious effects of increased vote-splitting: campaign costs have increased and in some cases two candidates advance who don&rsquo;t at all represent the majority. Fundamentally, California's top two simply pushes the spoiler effect inequality into the primary vote.
+
+<p><strong>On every axis of comparison, Score Runoff Voting is superior to the Top Two system.</strong>
+
+<p>Barring a wholesale switch to SRV, however, there is a way to make the Top Two significantly better: just remove the one choice limit.
+
+<p id="theequalvote"><strong>The Equal Top Two</strong> </p>
+
+<p>The simplest way to make a top two system awesome and actually equal is to remove the single choice limitation in the first phase. That&rsquo;s it. Instead of making one choice per office, voters get to look at each candidate individually.</p>
+
+<p>Finally, at long last, voters will be able to honestly express support for candidates they actually prefer, without having to consider first who has the most financial strength or who the media says is &ldquo;electable.&rdquo; They can actually look at a candidate and think, &ldquo;I like. Support!&rdquo; </p>
+
+<p id="linkback7">Since we know that the top two advance, <a href="endnotes#footnote7">we benefit by supporting at least two</a>, so we can support our favorite(s) and if necessary support a merely acceptable candidate too. Instead of choosing the lesser of two evils in the general election, we may be able to select the more awesome of two greats. And unlike many other primary election systems, voting or advocating for a weak opponent is <a href="endnotes#footnote7">a very risky strategy</a>. We actually have good reason to vote honestly.</p>
+
+<p>The major problem with any top two system is that it requires two elections. That's a lot of extra cost for the state to administer, and voter turnout in the two elections differs, which can skew the results. Do you run the first phase before the general election date, in which fewer voters will participate in the stage that narrows the field? Or do you run the second phase after the general election date, in which case fewer voters will participate in the stage that actually chooses the winner?</p>
+
+<p>It may be preferable to have just a single election: turnout is maximized and costs are reduced. Single-stage rating systems such as score voting and approval voting have come under fire from Instant Runoff Voting advocates for failing to guarantee a majority winner, and for encouraging tactical voters to choose and maximally rate only a single candidate. <strong>The big win of Score Runoff Voting</strong> is that it meets the equality criterion, but also results in majority preference outcomes and encourages voters to support more than one candidate in the race. It also overcomes the complexity weaknesses of IRV.</p>
+
+<p>See how Top Two and the Equal Top Two stack up in the overall discussion of <a href="equal_systems_science">Voting Science</a>.

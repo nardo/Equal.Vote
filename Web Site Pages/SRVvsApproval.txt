@@ -1,0 +1,18 @@
+<p>Rating systems such as Olympic judging, product reviews on Amazon (5 out of 5 stars!), or the simple &ldquo;Like&rdquo; on Facebook allow the voter to attribute to each competitor, product or idea an independent measure of value.
+
+<p><img src="Rating.jpg" alt="Rating.jpg" /></p>
+
+<p>For every rating you give a candidate, I can give a balancing rating: yes to your no or zero stars to your five, so <strong>all rating systems actually pass the voting system equality test</strong>. Even the simplest rating system &ndash; a binary yes or no, +1 or 0, support or not &ndash; lets us communicate what no rank ordering can: which choices <a href="http://en.wikipedia.org/wiki/Approval_voting#Approval_threshold">we actually approve</a>.</p>
+<p><img src="Ballots.jpg" alt="Ballots.jpg" />And the ballot for the simplest rating system, also known as Approval Voting, looks the same as our current ballot, only with the single choice limitation removed.</p>
+
+<p><strong>Score Runoff Voting versus Approval and Score Voting:</strong></p>
+<ul>
+
+<li>SRV provides a <strong>majority win</strong> outcome between the two highest-scoring candidates. The majority of voters in some hypothetical approval and score voting elections may actually prefer a candidate who scores second-highest overall. This feature of these methods runs counter to our particular notion of democracy that we can trace as far back as founder James Madison's declaration in Federalist #57 that representatives "will have been distinguished by the preference of their fellow-citizens."<br><br></li>
+
+<li>SRV discourages <strong>Tactical Minimization</strong>, where you decrease your support for candidates other than your favorite. Approval and Score voting systems are said to encourage "bullet voting" - supporting just one's favorite candidate and dishonestly voting 0 for all the others. SRV's runoff step corrects for this strategic distortion in two ways: first, by incentivizing voters to differentiate scores of multiple candidates to have a meaningful say in the runoff, and likewise amplify, to parity, the preferences of those who do not bullet vote in the runoff step.<br><br></li>
+
+<li>SRV also discourages <strong>Tactical Maximization</strong>, where you increase support for candidates other than your favorite because you think your favorite is weak or you want to hedge your bet. In addition to the folks who say Approval and Score Voting systems are vulnerable to "bullet voting", there are those who say the optimal Score vote is pretty much the opposite: to maximize support for one perceived front runner and all the candidates the voter likes more than that one. As above, SRV's runoff step corrects for this strategic distortion in two ways: first, by incentivizing voters to differentiate scores of multiple candidates to have a meaningful say in the runoff, and likewise amplify, to parity, the preferences of those who do not maximally vote the top two in the runoff step.<br><br></li>
+</ul>
+
+<p>Voting Science has progressed significantly since the founding of the country. <a href="equal_systems_science">Learn more about voting system science and evaluation of voting methods</a>.

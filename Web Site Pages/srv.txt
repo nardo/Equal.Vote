@@ -1,0 +1,53 @@
+<p style="align-center"><strong>Score Runoff Voting</strong><br>
+
+<p>Although there is broad consensus in the election reform community and the electorate as a whole that <a href="thestatusisnotquo">our election process is significantly flawed</a>, one reason we're still stuck with it is that the reform community is fractured. <a href="http://fairvote.org">Various</a> <a href="www.electology.org">groups</a> advocate for different approaches to reform, measure those offerings according to <a href="http://www.fairvote.org/reforms/instant-runoff-voting/irv-and-the-status-quo/irv-versus-alternative-reforms/single-winner-voting-method-comparison-chart/#16">different</a> <a href="http://scorevoting.net/FBCsurvey.html">criteria</a>, and <a href="http://www.fairvote.org/research-and-analysis/blog/why-approval-voting-is-unworkable-in-contested-elections/">bash</a> <a href="http://www.electology.org/#!approval-voting-versus-irv/c1mmu">competing reforms</a>.</p>
+
+<p><strong>Score Runoff Voting or SRV</strong> is a new voting system designed to address the flaws in our current voting system at the same time it answers opposing critiques from the two leading single election voting system reform camps: those who advocate for <a href="leading_reforms#IRV">Instant Runoff Voting</a> and those who advocate for rated voting methods such as <a href="equal_systems_science">Approval and Score Voting</a>.</p>
+
+<p>SRV allows voters to rate the candidates just like we rate books on Amazon, restaurants on Yelp and songs on iTunes. The winner of the election is determined in two steps. First, all the voters' candidate scores are summed. The top two scoring candidates advance to the second step, where the winner is chosen as the one preferred by the most voters over the other, thus ensuring a majority outcome between the two candidates most supported by the electorate.</p>
+
+<img src="SRV_ballot.png">
+
+<p> The results of this hypothetical election are tallied first by adding up all the scores of all the candidates given by all the voters to determine the top two. Assuming Bianca and Desi were the top overall, the ballot above would count for Desi in the runoff because the voter scored Desi higher than Bianca. A hypothetical overall election outcome might look like this:</p>
+
+<img src="SRV_results.png">
+
+<p> The graph demonstrates the simplicity of the SRV tabulation process. The bar chart shows how many total points each candidate received. The percentages on the two highest scoring candidates show the preference percentages of the voters between those two. There are always just two stages: scoring, then instant runoff. By capturing more information from voters, this system provides the advantages of the equal top two without requiring voters to return to the polls.</p>
+
+
+<p><strong>Advantages versus Ranked Choice aka Instant Runoff Voting:</strong></p>
+
+<ul>
+<li>SRV so simple that the complete instructions for the voter and the rules for determining the winner can be printed in two short sentences on the ballot itself, whereas the mechanism for tabulating RCV/IRV can remain opaque even for sophisticated voters. Steve Pond <a href="http://www.thewrap.com/awards/column-post/dont-believe-schmucks-24542/">wrote the following</a> about RCV/IRV after its adoption as the voting system for choosing Best Picture by the Motion Picture Academy: "A year and a half after the Academy went to a different system for counting Best Picture ballots, <strong>nominees and voters and campaigners still don't understand how it works.</strong> And it's driving me crazy."<br><br></li>
+
+<li>SRV provides an equal weight vote to every voter. IRV does not.<br><br></li>
+
+<li>SRV will not penalize the voter for giving her first choice the highest rating by making her second choice more vulnerable to her least-favored candidate. RCV/IRV suffers this weakness, which is an example of the criterion known technically as "<a href="https://www.youtube.com/watch?v=JtKAScORevQ">Favorite Betrayal</a>."
+<br><br></li>
+
+<li>SRV is much simpler to tabulate. It is always completed in two rounds with transparent results.<br><br></li>
+
+<li>SRV shows an accurate measure of voter support for all candidates. The RCV/IRV "shadow" effect minimizes support for lesser similar candidates. In the 2012 Manhattan exit poll study, Instant Runoff Voting and Score Voting were included in the alternative voting methods studied. The following bar chart demonstrates quite clearly how the RCV/IRV shadow can hide public support for candidates other than the two frontrunners:<br>
+<img src="RIRV_Occupy.001.jpg">
+<br></li>
+
+<li>SRV decreases the potential for spoiled ballots. The ballot format is simple and scales to any number of candidates. IRV's complex ballot is much easier to spoil, and many jurisdictions limit the number of rank options given to each voter.<br><br></li>
+
+<li>R-IRV is precinct-summable. Precinct score sums and pairwise preferences can be tabulated at each precinct and then summed together in a final location. IRV requires all election results to be collected in a single location before the count can begin.<br><br></li>
+</ul>
+
+<p><strong>Advantages versus Approval and Score Voting:</strong></p>
+<ul>
+
+<li>SRV provides a majority win outcome between the two highest-scoring candidates. The majority of voters in some hypothetical approval and score voting elections may actually prefer a candidate who scores second-highest overall. This feature of these methods runs counter to our particular notion of democracy that we can trace as far back as founder James Madison's declaration in Federalist #57 that representatives "will have been distinguished by the preference of their fellow-citizens."<br><br></li>
+
+<li>SRV discourages 'bullet voting'. SRV allows the voter to support a second choice without that support counting directly against the voter's first choice. Because two candidates advance to the runoff step, the voter only harms his first choice if both first and second choice were vying for second position. In this case the voter will improve the likelihood of a preferred outcome by supporting the stronger of the two. On the other hand, if both of the voter's choices are in the top two, his full support will go to his actual favorite in the runoff round. Voters are also advantaged by showing token support for candidates other than their worst choice in case no candidate the voter actually prefers makes the runoff.<br><br></li>
+
+<li>SRV discourages the tactical maximal exaggeration of the score of the more favored frontrunner and all candidates more preferred. The strategic voter is giving up 1/score_max strategic power in the first round in order to gain 100% voting power in the second round. Thus SRV strategically incentivizes more honest scoring, which in turn results in provably more democratic outcomes.</li>
+</ul>
+
+<p><strong>Next Steps</strong></p>
+
+<p>We recommend that leading election reform advocacy organizations and election scientists perform a thorough vetting of Score Runoff Voting. Of particular interest are the evaluations of groups such as FairVote and the Center for Election Science as well as the simulation analysis of SRV versus other comparable systems on the measures of Bayesian Regret and agreement with the utility-based Condorcet Winner.</p>
+
+<p> We also encourage real world election reform campaigns advocating Instant Runoff Voting and Approval Voting for single-winner elections to compare the cost and complexity of implementation of SRV.</p>

@@ -1,0 +1,47 @@
+Steve Dengle
+Mark Gamba
+
+Bill Miner DWT -> Ben Unger
+
+
+Our election system is broken - for every office in the land. The root of the problem is our reliance on an archaic, misrepresentative voting method that has persisted since before the beginning of the country. We are proposing a new system, Score Runoff Voting, that will let us all score all the candidates for office, instead of always having to support just the lesser evil. We're starting at the local level, then working statewide and nationally, to fundamentally reboot our electoral process and bring true representative democracy to the U.S. for the first time.
+
+The 2014 Oregon Open Primary effort sowed the seeds for a successful reform in the coming cycle. We’re building a better team, a better plan, a better reform, with better timing, better optics, more time, and a dramatically bigger impact.
+
+SRV avoids the wacky outcome tendency and ballot/ counting complexity of RCV, and its runoff step corrects the “bullet voting” and other strategic distortions of scoring methods like Approval Voting.
+
+
+A B C
+
+AB AC BC - 3
+
+A B C D
+AB AC AD BC BD CD - 6
+
+A B C D E
+
+AB AC AD AE BC BD BE CD CE DE - 10
+
+A B C D E F
+
+AB AC AD AE AF BC BD BE BF CD CE CF DE DF EF - 15
+
+
+Until now, such an election system did not exist - various competing reform proposals such as Ranked Choice Voting, Approval/Score Voting and the California Top Two provide partial solutions, but each suffers from weaknesses of complexity, outcome, or strategic vulnerability.
+
+
+<p><strong>The Recipe for a More Perfect Union</strong>
+<p>An ideal voting system has several characteristics:
+
+<ul>
+<li><strong>Equality:</strong> the voters must be provided an equal voice in the election<br><br></li>
+
+<li><strong>Accuracy:</strong> the outcome of the election should match the collective will of the voters<br><br></li>
+
+<li><strong>Simplicity:</strong> the ballot, computation method and results should be easy for voters to understand and easy for election officials to process<br><br></li>
+
+<li><strong>Expressiveness:</strong> the ballot should permit the voter to express a nuanced opinion on the outcome, not just a choice between the "lesser evil" candidates<br><br></li>
+
+<li><strong>Honesty:</strong> Voters should not be punished for expressing their honest opinions, and likewise voters should not be incentivized to achieve a better outcome by voting strategically<br><br></li>
+</ul>
+

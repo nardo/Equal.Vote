@@ -1,0 +1,50 @@
+<h3><strong>Endnotes</strong></h3>
+
+<p id="footnote1"><strong>The influence of money in politics</strong></p>
+
+<p><a href="http://www.newsmax.com/Newsfront/americans-money-politics-elections/2012/05/24/id/440238/">76% of Americans</a> think that the amount of money in elections gives rich people more influence than the rest of us. They're right. Princeton and Northwestern University recently released a <a href="https://www.google.com/#q=princeton+democracy+study">released a study</a> suggesting that our government outcomes function on behalf of a polarized special interest oligarchy not the majoritarian democracy. That's not the deal promised by the whole "We The People" thing.</p>
+
+<hr />
+<hr />
+<p id="footnote3"><strong>The Spoiler Effect and Lesser Evil Voting<br /></strong></p>
+
+<p>The <a href="http://en.wikipedia.org/wiki/Spoiler_effect"><strong>spoiler effect</strong></a> is the effect of vote splitting between candidates or ballot questions with similar ideologies. One <strong>spoiler candidate'</strong>s presence in the election draws votes from a major candidate with similar politics thereby causing a strong opponent of both or several to win. The minor candidate causing this effect is referred to as a spoiler<em>.</em></p>
+
+<p>The <a href="http://en.wikipedia.org/wiki/Lesser_of_two_evils_principle"><strong>lesser of two evils principle</strong></a> (or <strong>lesser evil principle</strong>) is the principle that when given two bad choices, the one which is not as bad as the other should be chosen over the one that is the greater threat.</p>
+
+<hr />
+<p id="footnote4"><strong>More on Ranking Systems</strong></p>
+
+<p>Plurality voting - the choice of one favorite in a field of many candidates - is the simplest ranking system. Other methods like Instant Runoff Voting (IRV) allow you to rank multiple candidates 1,2,3, etc. in order of your preference. It turns out that for elections with more than two candidates, <strong>ALL ranked voting methods fail the test </strong>for voting system equality because there are rank orderings for which there are no counter-balancing orderings. Further, rank orderings can't account for disproportionate clusterings of candidates, so such systems are necessarily vulnerable to vote-splitting. <a href="http://en.wikipedia.org/wiki/Kenneth_Arrow">Some super smart dude</a> named Nobel Prize Winning Economist Dr. Kenneth Arrow <a href="http://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem">actually proved</a> that no rank order voting system with more than two distinct alternatives can produce a &ldquo;fair&rdquo; outcome.</p>
+
+<p>Other complaints regarding ranked systems include ballot complexity and winner computation complexity.  </p>
+
+<hr />
+<p id="footnote5"><strong>Computing the shutout</strong></p>
+
+<p>Currently only members of the two major parties can participate in the primary election. According to May voter registration statistics, 30.9% of voters don't affiliate with either, and are therefore excluded from the contests that select the two frontrunner candidates for the general election. Further, a strong majority of districts provide a single party enough of an advantage because of the imbalanced segregation of voters in the primary stage that its candidate always wins the general election. This silences another 19.7% of voters in the minority party in dominated districts.</p>
+
+<p>That's actually more than half of us. Without a voice of representation in a "representative democracy." Hmm...</p>
+<p>You can download <a href="https://d3n8a8pro7vhmx.cloudfront.net/unifiedprimary/pages/1/attachments/original/1401732693/ShutoutMath.xlsx?1401732693">the spreadsheet</a> that computes this result.</p>
+
+<hr />
+<p> </p>
+
+<p id="californiapurpose"><strong>The California Top Two</strong></p>
+
+<p>California adopted a top two general election system in 2010. While the California law bears similarity to the Oregon Open Primary, it differs significantly in its purpose, excerpted in part:</p>
+
+<p><em>&ldquo;(a) Purpose. The Top Two Candidates Open Primary Act is hereby adopted by the People of California to protect and preserve the right of every Californian to vote for the candidate of his or her choice&hellip;</em></p>
+
+<p><em>(b) Top Two Candidate Open Primary. All registered voters otherwise qualified to vote shall be guaranteed the unrestricted right to vote for the candidate of their choice in all state and congressional elections&hellip; The top two candidates, as determined by the voters in an open primary, shall advance to a general election&hellip;&rdquo;</em></p>
+
+<p>The <strong>California system has no requirement of equality</strong> within the primary election itself. Instead, its Purpose subtly reinforces the single choice limitation, and so because all the candidates are in a single, larger primary field, California has seen a magnification of the vote-splitting/spoiler effect inequality present in our election system today. </p>
+
+<hr />
+<p id="footnote7"><strong>A discussion of strategic voting in the equal vote with a top two<br /></strong><strong></strong></p>
+<p><strong>"Bullet Voting" - </strong>FairVote, a national election reform advocacy organization, has criticized rating systems because "they create obvious, immediate and ongoing strategic dilemmas in every election. With approval voting, each equally weighted vote counts both for that candidate but effectively against the other candidates -- if you indeed have a preference between the two candidates, you need to weigh whether to 'bullet vote' for your favorite to avoid canceling out that vote by voting for someone else. You can be sure candidates will publicly call for voters to reach out to all candidates they might like with their votes, but privately to urge all backers to bullet vote for themselves."</p>
+
+<p>In a discussion of using a rating system for the primary election with a top two, Rob Richie, Executive Director of FairVote conceded that adding a second round mitigates the bullet voting concern. A voter's desire to see his or her favorite candidate win is balanced by the safety of having two acceptable candidates advance (including his or her favorite).</p>
+
+<p><strong>"Voting or advocating for the weak opponent" - </strong>A number of folks have suggested that one way to "game" the equal top two is to cast dishonest votes in favor of a weak opponent candidate in order to squeeze out a more-feared strong opponent. This is not a safe voting strategy; in fact it is only viable if the voter has a very high degree of confidence that his or her favorite candidate will out-poll the strong opponent in the first round. Voting insincerely does not change at all the calculus between the voter's favorite and most feared opponent, but actually increases the likelihood that the voter's own favorite will get squeezed out. This weak opponent strategy is an effective technique in most other two stage election systems.</p>
+<hr />

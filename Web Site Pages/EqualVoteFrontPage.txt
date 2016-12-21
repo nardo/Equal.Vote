@@ -1,0 +1,64 @@
+<p><h1><strong>Our election system is broken. For every office in the land. </strong></h1>
+
+<p style="text-align:center;><img src="news_header.jpg" alt="Header.jpg"/></p>
+
+<p>The <a href="#plurality">root of the problem</a> is our reliance on an archaic, misrepresentative voting method that has persisted since before the beginning of the country. We're <a href="#plan">starting at the local level</a>, then working statewide and nationally, to fundamentally reboot our electoral process and bring the equal vote and true representative democracy to the U.S. for the first time. 
+
+<p>We are proposing a new system, <a href="#srv">Score Runoff Voting</a>, that gives us a radically more expressive ballot and an equal weight vote in order to solve the fundamental problem of our Republic. Check it out:
+<p><img src="equal_vote_vision.jpeg">  
+<p>We'll get into the details in a bit, but first...
+
+<p><strong>The Problem:</strong>
+<p>For offices from state legislator to President, our election system serves up at MOST two viable and polarized candidates who spend months tearing each other down. Cycle after cycle, we are rewarded with dysfunctional, hyper partisan governing bodies ripe for manipulation by special interests.
+
+<div id="plurality"></div>
+
+<p><img src="vote-splitting.png" alt="vote-splitting.png" /></p>
+
+<p>Why? Our current way of voting, known as Plurality Voting, limits us to picking a single favorite in each election, so whenever there are more than two options, the more similar ones split supporters' votes, <strong>giving more weight to those of us who prefer fewer candidates</strong>. Because of this fundamental inequality, we are encouraged not to &ldquo;waste our vote&rdquo; on a long shot &ldquo;spoiler&rdquo; candidate we might really like. Instead, to prevent our worst option from winning, we are compelled to vote for the &ldquo;<a href="endnotes#footnote3">lesser evil</a>&rdquo; - the more tolerable of the two candidates most beholden to well-funded and partisan special interests.</p>
+
+<p><img src="Front_Page_Graphics.001.jpg" alt="Front_Page_Graphics.001.jpg" /></p>
+
+<p>When Progressives created the partisan primary election more than a century ago to give voters, not the party bosses in &ldquo;smoke filled back rooms,&rdquo; the choice of which of the two major party candidates would compete in the general election, they inadvertently created a new inequality in the vote.
+
+<p><img src="closed_domination.png" alt="closed_domination.png" /></p>
+
+<p id="linkback5">Here in Oregon, for example, nearly a third of us aren't in a major party and another nearly 20% are in the minority in &ldquo;safe&rdquo; districts that give just one party so much of an advantage that whomever is chosen in their primary always wins the general election. If you're not in the dominant party in your district, the weight of your representative vote is effectively zero.</p>
+
+<p>In 2016, the primary system demonstrably failed on the national level as well: ultimately U.S. voters were given a choice between two major party candidates for President, <strong><a href="http://www.politico.com/blogs/donald-trump-administration/2016/11/60-percent-of-voters-view-trump-unfavorably-231086">both</a> of <a href="http://www.realclearpolitics.com/epolls/other/clinton_favorableunfavorable-1131.html">whom</a> were disliked by a strong majority of the electorate</strong>.
+
+<p><strong>The Solution: One Fair Election</strong>
+<p>What if we could have a single inclusive election that provides us all an <strong>equal</strong> say, <strong>accurately</strong> reflects our collective will in the outcome, is <strong>simple</strong> for us to ballot and for elections officials to tabulate, and allows us to <strong>expressively</strong> share our <strong>honest</strong> opinions on the outcome instead of always having to strategically choose just the lesser evil?
+<p>Until recently, such an election system did not exist. Various competing reforms such as Instant Runoff Voting, Approval/Range Voting and the Top Two Runoff provide partial solutions, but each suffers from weaknesses of complexity, representative accuracy, or strategic vulnerability.
+
+<div id="srv"></div>
+<p><strong>Enter Score Runoff Voting</strong>
+
+<p>We propose a new voting system, <a href="about>invented in 2014</a> by some of the nation's top voting reform experts. Instead of limiting the voter to supporting just one of the candidates, Score Runoff Voting allows voters to rate all the candidates just like we rate books on Amazon, restaurants on Yelp and songs on iTunes. Whether we've seen the Olympics or ever been graded on a homework assignment, scoring is a thoroughly-understood, ubiquitous method of expressing a fine degree of opinion on a subject.
+
+<img src="SRV_ballot.png">
+
+<p> The winner is determined in two steps. First, all the scores for all the candidates are added up. A hypothetical first stage election result might look like this:</p>
+
+<p><img src="SRV_results_stage_1.png">
+
+<p>The second step is an instantaneous runoff between the two highest scoring candidates. <strong>In the runoff, your full vote goes to whichever of the top two you rated higher</strong>.
+
+<p>In the election above, Desi and Bianca advance to the instant runoff because they are the two top scorers. So if your ballot looked like the one above, your full runoff vote would go to Bianca, because you gave her a 9 and you gave Desi a 5. <strong>The existence of the runoff step makes the scoring more honest</strong>: you have an incentive to differentiate candidate scores in order to have a voice in the second step.
+
+<p><strong>Compare Options for Reform</strong>
+
+<img src="system_chart.png">
+
+<p>Ranked Choice Voting systems use the voters' preference orders of the candidates to determine the winner. SRV is a form of Ranked Choice where rank preference is determined by the relative score a voter gives each candidate. Because it uses both preference order and a notion of how much the voter approves of each candidate, SRV is both <a href="SRVvsIRV">easier to tabulate and results in a more representative outcome than Instant Runoff Voting</a>, another Ranked Choice system currently being considered for adoption in Oregon.
+<p><em>Top Two</em> runoff systems have been adopted in several states including California and Washington. Compared to Top Two, SRV more accurately reflects the will of the voters and is less expensive for states to operate and for candidates to participate. <a href="SRVvsTopTwo">Read more about Score Runoff Voting versus Top Two systems</a>.
+<p><em>Approval Voting</em> and the more generalized Range Voting use the voter's level of approval of each candidate to determine the winner. Most scoring systems don't account for the voter's specific preferences between candidates, but because SRV uses the Rank Choice of the voters, <a href="SRVvsApproval">it answers the strategic voting criticisms</a> of Approval and Range Voting.
+<p id="plan"><strong>The Plan:</strong></p>
+
+<p>It's time to create real democracy in the U.S., and Oregon can lead the way. We've formulated a three step plan to revolutionize our national democratic system.
+<ul>
+<li><strong>Start Local.</strong> We'll prove SRV's efficacy in local elections, starting at the city and county level in Oregon.<br><br></li>
+<li><strong>Go Statewide.</strong> We'll push for all Oregonians to have an equal, expressive vote in all elections, and we'll phase in the new system in a way that both maximizes impact and minimizes the risk of adopting a new system. We'll get dramatically more representative outcomes and we'll save the voters, candidates and state a ton of time and money to boot.<br><br></li>
+<li><strong>Lead the Nation.</strong> We'll re-envision our Presidential Primary so that Oregonians have a meaningful voice in the outcome and blaze the trail for the nation to a better democracy.<br></li>
+</ul>
+<p>Check out the <a href="reform">reform plan</a> and then <a href="join">sign up</a> to pitch in the effort!</p>

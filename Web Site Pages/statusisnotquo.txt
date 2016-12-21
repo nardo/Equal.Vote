@@ -1,0 +1,39 @@
+<hr>
+
+<p id="linkback1"><strong>Why it Matters</strong><br><br>
+
+No matter what public policy areas we care about, there is one legal process we need to care about as well, because it is at every policy area's root. This is the vote: our system of public elections for choosing the people who make every public policy choice on our behalf. The vote is the container for all of politics, and it's broken.</p>
+
+<p><a href="http://lmgtfy.com/?q=Princeton+study+democracy&l=1"><img src="Front_Page_Graphics.002.jpg" alt="Front_Page_Graphics.002.jpg" /></a></p>
+
+<p>Although our founders <a href="endnotes#footnote2">required from before the beginning</a> that our <strong>votes carry equal weight</strong>, they do not. The specific inequalities in the weight of the vote itself lead directly to the screwed up politics we see today: governing bodies locked in partisan stasis, and policy outcomes that tilt overwhelmingly to the advantage of <a href="endnotes#footnote1">well-funded special interests</a>.</p>
+
+<p align="center" id="linkback2"><strong><img src="justitia.jpg" alt="justitia.jpg" /></strong></p>
+<p>As it has been since ancient times, <strong>the test for equality of weight is balance. </strong>Therefore, in order for our voting system to provide an equal weight vote to us all, <strong>for every possible way you can vote, there must exist a counter-balancing vote</strong> I can cast that leaves the election outcome the same before and after our two votes are counted.</p>
+
+<p id="linkback3">A choice between two passes the equality test: if you vote for Alice and I vote for Bob, our votes exactly counter-balance, so the overall election outcome reflects the will of the majority. </p>
+<p><img src="vote-splitting.png" alt="vote-splitting.png" /></p>
+<p>But because our current system limits us to one choice, whenever there are more than two candidates, the more similar candidates split supporters' votes. This is the <strong>spoiler effect inequality</strong> - the limit of one choice<strong> </strong>creates a vote that is impossible to balance and actually gives more power to those of us who prefer fewer candidates. Consequently, we are encouraged not to &ldquo;waste our votes&rdquo; on a long shot candidate we might really like and instead vote only for the &ldquo;<a href="endnotes#footnote3">lesser evil</a>,&rdquo; in order that our worst option be prevented from winning.</p>
+
+<p><img src="Front_Page_Graphics.001.jpg" alt="Front_Page_Graphics.001.jpg" /></p>
+
+<p>And this strategic voting compulsion gives an overwhelming advantage to the money - not just because candidates who raise more can spend more on advertising, but because we have to vote for one of the two candidates most beholden to well-funded interests. The lesser evil is just the more tolerable of the two frontrunners with the biggest financial war chests.</p>
+
+<p>Independent candidates without big backing don&rsquo;t even get a fair count. Instead they are vilified for participating, because the more support they draw, the more likely their presence on the ballot will spoil the outcome and result in the election of the "greater evil." The single choice limitation essentially creates the one-dimensional two-party dominated political system we live in today.</p>
+
+<p id="statusnotquo"><strong>The Second Inequality: Exclusion</strong></p>
+
+<p>The primary election was created more than a century ago to give voters the choice of which candidates from their party would be nominated to the general election. Prior to the establishment of the primary, the two main party candidates were chosen at party conventions or in the "smoke-filled back rooms" by party bosses. Unfortunately, this effort to give more voice to the people has created another dimension of inequality in the vote: <strong>partisan exclusion.</strong></p>
+
+<p><img src="closed_domination.png" alt="closed_domination.png" /></p>
+
+<p id="linkback5">Nearly a third of us aren't in a major party and almost 20% are in the minority in the strong majority of districts that are &ldquo;safe&rdquo; &ndash; those districts that give just one party so much of an advantage that whomever is chosen in their primary always wins. If you're not in the dominant party, the weight of your representative vote is effectively zero.</p>
+
+<p>Taken together, these inequalities <a href="#footnote5">silence more than half of us</a> and afford choice only between two polarized candidates deep in the money's pocket. Not super surprising then that we have a special-interest dominated government mired in partisan gridlock.</p>
+
+<p id="coalition"><strong>The Equal Vote Coalition</strong>
+<p>The mission of the Equal Vote Coalition is to eliminate the two inequalities that pervade our current election system: the election system segregation that creates hyper partisanship and the sneaky spoiler effect that forces us to support only the candidates with the most money. Because one or more of these inequalities has been a factor in every public election in the U.S., we can make the equal vote another significant Oregon first.</p>
+
+But how exactly can we do that? We'll examine the two leading reform efforts nationally to show how neither actually provides an equal vote, and then we'll show how a simple transformation of either will result in a much better process and much better outcomes.</p>
+
+<a href="leading_reforms">Up Next: The Leading Reforms - Top Two and IRV</a>

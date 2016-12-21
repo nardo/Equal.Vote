@@ -1,0 +1,59 @@
+<p>The United States Supreme Court has underscored the requirement of equality in our voting franchise, but little attention has been focused on the judicial tests for measuring that standard. The Equal Vote Coalition proposes a test that is consistent with underlying democratic theory and which will insure that voters are equal to each other in exercising the franchise that is part of their entitlement under the Constitution.
+
+<p><strong>The Legal Mandate for Equality of Vote Weight</strong>
+
+<p>The United States Supreme Court has traced the conception of equality in the voting franchise not just to the Equal Protection Clause of the Fourteenth Amendment, but as a thread that defines the essential character of the the nation itself. In <em><a href="https://supreme.justia.com/cases/federal/us/372/368/case.html">Gray v. Sanders</em></a> the court declared:
+
+<blockquote>“The conception of political equality from the Declaration of Independence, to Lincoln's Gettysburg Address, to the Fifteenth, Seventeenth, and Nineteenth Amendments can mean only one thing-one person, one vote.”</blockquote>
+
+<p>In that same opinion, the Court established that all who meet the basic qualifications as voters must necessarily be afforded an equal vote - that there shall be no preferred class of voters within any geographical unit:
+
+<blockquote>“Once the geographical unit for which a representative is to be chosen is designated, all who participate in the election are to have an equal vote -- whatever their race, whatever their sex, whatever their occupation, whatever their income, and wherever their home may be in that geographical unit. This is required by the Equal Protection Clause of the Fourteenth Amendment. The concept of ‘we the people’ under the Constitution visualizes no preferred class of voters, but equality among those who meet the basic qualifications.”</blockquote>
+
+<p>In <em><a href="https://supreme.justia.com/cases/federal/us/376/1/case.html">Wesberry v. Sanders</a></em>, the Court affirmed this notion of vote equality and traced its definition to Madison in No. 57 of The Federalist:
+
+<blockquote>“Who are to be the electors of the Federal Representatives? Not the rich more than the poor; not the learned more than the ignorant; not the haughty heirs of distinguished names more than the humble sons of obscure and unpropitious fortune. The electors are to be the great body of the people of the United States.”</blockquote>
+
+<p>The Court specifically equated Madison's passage to the principle of “one person, one vote.”
+
+<p>In that same opinion, the Court declared that equality in the vote goes further than simple access to the franchise. The <strong>weight and worth of the citizens’ votes as nearly as is practicable</strong> must be the same:
+
+<blockquote>“... The apportionment statute thus contracts the value of some votes and expands that of others. If the Federal Constitution intends that, when qualified voters elect members of Congress, each vote be given as much weight as any other vote, then this statute cannot stand.
+
+<p>We hold that, construed in its historical context, the command of Art. I, § 2 that Representatives be chosen ‘by the People of the several States’ means that, as nearly as is practicable, one man's vote in a congressional election is to be worth as much as another’s.”</blockquote>
+
+<p>The Court reaffirmed this notion of weight equality in <em><a href="https://supreme.justia.com/cases/federal/us/377/533/case.html">Reynolds v. Sims</a></em>, concluding, “the right of suffrage can be denied by a debasement or dilution of the weight of a citizen's vote just as effectively as by wholly prohibiting the free exercise of the franchise.”
+
+<p><strong>Definition of the Vote</strong>
+
+<p>Merriam-Webster <a href="http://www.merriam-webster.com/dictionary/vote">defines “vote”</a> as “a usually formal expression of opinion or will in response to a proposed decision; especially :  one given as an indication of approval or disapproval of a proposal, motion, or candidate for office”
+
+<p>The voting franchise defines the boundaries of expression permitted in a vote and contemplates the algorithm used to determine the election outcome from the collected votes of the electors.
+
+<div id="test"></div>
+<p><strong>The Test of Weight Equality</strong>
+
+<p>As it has been since ancient times, the test for equality of weight is balance. To determine whether two objects are of equal weight, they must balance when placed on opposite sides of a balance scale.
+
+<p><img src="Lady_Justice.jpg">
+
+<p>This principle has a clear analogue in the voting franchise. The voting franchise provides votes of equal weight to all the voters if and only if for each possible vote expression that one voter may cast in an election, there exists another expression of the vote that another voter can cast that is in balance - such that the outcome of an election is the same whether both or neither votes are counted.
+
+<p>We know this intuitively in every election between two candidates or on questions of petition or referendum. If voter A chooses the first candidate and voter B chooses the second, their votes exactly counter-balance, so the overall election outcome reflects the will of the majority.
+
+<p><img src="Choice_between_two.jpg">
+
+<p>Madison, in No. 57 of The Federalist noted this majority preference as the first requirement for the equal representative vote:
+
+<blockquote>“If we consider the situation of the men on whom the free suffrages of their fellow-citizens may confer the representative trust, we shall find it involving every security which can be devised or desired for their fidelity to their constituents. In the first place, as they will have been distinguished by the <strong>preference of their fellow-citizens</strong> (emphasis supplied).”</blockquote>
+
+<p><strong>The Present Franchise Perpetuates Inequality in its Structure</strong>
+
+<p>Unfortunately, for any number of candidates beyond two, the voting franchise is structured in such a way as to embody <a href="srv">two orthogonal inequalities</a> in the weight of the vote expressions between voters. Not only do these pernicious inequalities run counter to the basic institutional requirement of equality of vote weight, they also lead quite naturally to the hyper partisan, special interest-dominated policy outcomes we see today.
+
+<p><strong>Decision Science to the Rescue</strong>
+
+<p>Recall the Court’s teaching from Wesberry v. Sanders: “as nearly as is practicable, one man's vote in a congressional election is to be worth as much as another’s.”
+
+<p>The <a href="equal_systems_science">evolution of decision science</a> has provided us with several templates for voting systems that provide true practicable equality between the voters, and those systems demonstrably provide outcomes that are more representative of the will of the electorate than the plurality voting method in use today.
+

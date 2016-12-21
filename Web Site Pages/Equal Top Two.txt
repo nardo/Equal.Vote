@@ -1,0 +1,18 @@
+
+<p><img src="TopTwo.jpg" alt="TopTwo.jpg" /></p>
+
+<p id="theequalvote"><strong>The Equal Vote</strong> </p>
+
+<p>So the simplest way to make a top two system awesome and actually equal is to remove the single choice limitation in the first phase. That&rsquo;s it. Instead of making one choice per office, we&rsquo;ll get to look at each candidate individually.</p>
+
+<p>Finally, at long last, we&rsquo;ll be able to honestly express support for candidates we actually prefer, without having to consider first who has the most financial strength or who the media says is &ldquo;electable.&rdquo; We can actually look at a candidate and think, &ldquo;I like. Support!&rdquo; </p>
+
+<p id="linkback7">Since we know that the top two advance, <a href="endnotes#footnote7">we benefit by supporting at least two</a>, so we can support our favorite(s) and if necessary support a merely acceptable candidate too. Instead of choosing the lesser of two evils in the general election, we may be able to select the more awesome of two greats. And unlike many other primary election systems, voting or advocating for a weak opponent is <a href="endnotes#footnote7">a very risky strategy</a>. We actually have good reason to vote honestly.</p>
+
+<p>The major problem with any top two system is that it requires two elections. That's a lot of extra cost for the state to administer, and voter turnout in the two elections differs, which can skew the results. Do you run the first phase before the general election date, in which fewer voters will participate in the stage that narrows the field? Or do you run the second phase after the general election date, in which case fewer voters will participate in the stage that actually chooses the winner?</p>
+
+<p>It may be preferable to have just a single election: turnout is maximized and costs are reduced. Unfortunately, single-stage rating systems such as score voting and approval voting have come under fire from Instant Runoff Voting advocates for failing to guarantee a majority winner, and for encouraging tactical voters to choose and maximally rate only a single candidate. It'd be cool if there were a single stage voting system that met the equality criterion, but also resulted in majority preference outcomes and encouraged voters to support more than one candidate in the race. It'd be nice as well if such a system overcame the complexity weaknesses of IRV.</p>
+
+<p>Are we asking too much? Turns out, no.</p>
+
+<a href="r_irv">Up Next: Rated Instant Runoff Voting<a>

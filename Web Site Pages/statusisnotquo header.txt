@@ -1,0 +1,24 @@
+<p style="text-align: left;">Our voting system, in Oregon and nationally, is inherently unequal, and the specific inequalities in the vote help create the hyper partisan, special-interest policy outcomes we experience.<br><br>
+
+The two leading national reform proposals -  the Top Two runoff, which has been adopted by Louisiana, California and Washington, and Instant Runoff Voting, which has been adopted by a number of municipalities including San Francisco, Oakland and Minneapolis still feature provable inequalities between the voters. These leading reforms are still therefore ripe for manipulation and can lead to undemocratic outcomes. Fortunately both systems can be easily transformed to provide true equality between the voters. Read on to see how.
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<a href="#linkback1">Why it Matters</a><br />
+<a href="#linkback2">The Test of Balance</a><br />
+<a href="#linkback3">The Spoiler Inequality</a><br />
+<a href="#statusnotquo">The Exclusion Inequality</a><br />
+<a href="leading_reforms#california">California's Top Two</a><br />
+</td>
+<td style="width: 50%;">
+<a href="leading_reforms#IRV">Instant Runoff Voting</a><br />
+<a href="equal_systems_science">Voting Science 101</a><br />
+<a href="equal_top_two">The Equal Top Two</a><br />
+<a href="srv">One Fair Election - Score Runoff Voting</a><br />
+<a href="#coalition">About the Coalition</a><br>
+</td>
+</tr>
+</tbody>
+</table>
