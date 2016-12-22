@@ -23,7 +23,7 @@
 
 <p><img src="closed_domination.png" alt="closed_domination.png" /></p>
 
-<p id="linkback5">Here in Oregon, for example, more than a third of us don't affiliate with either the Democratic or Republican parties and <a href="endnotes#footnote5">another 17% are in the minority</a> in &ldquo;safe&rdquo; districts that give just one party so much of an advantage that whomever is chosen in their primary always wins the general election. <strong>In total, more than half of Oregon's voters are denied a meaningful representative vote</strong>.</p>
+<p id="linkback5">Here in Oregon, for example, more than a third of us don't affiliate with either the Democratic or Republican parties and <a href="endnotes#footnote5">another 17% are in the minority</a> in &ldquo;safe&rdquo; districts that give just one party so much of an advantage that whomever is chosen in their primary always wins the general election. In total, <strong>the partisan primary denies more than half of Oregon's voters a meaningful representative vote</strong>.</p>
 
 <p>In 2016, the primary system demonstrably failed on the national level as well: ultimately U.S. voters were given a choice between two major party candidates for President, <strong><a href="http://www.politico.com/blogs/donald-trump-administration/2016/11/60-percent-of-voters-view-trump-unfavorably-231086">both</a> of <a href="http://www.realclearpolitics.com/epolls/other/clinton_favorableunfavorable-1131.html">whom</a> were disliked by a strong majority of the electorate</strong>.
 

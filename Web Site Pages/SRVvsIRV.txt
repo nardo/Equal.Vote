@@ -2,13 +2,15 @@
 <p><strong>Instant Runoff Voting</strong><br><br>
 Instant Runoff Voting, one of many forms of Ranked Choice Voting, is a system invented in 1871 that has been adopted (and in some cases repealed) in several large U.S. cities, the state of Maine, and is used in national elections elsewhere in the world. Instead of limiting the voter to the choice of a single candidate, or allowing the voter to score all the candidates like <a href="srv#srv">SRV</a>, IRV uses a preference order only ballot: first choice, second choice, third choice and so on.</p>
 
-<p>To determine the winner, all of the first choice votes are counted. If one candidate has a majority, that candidate is the winner. Otherwise, the candidate who had the fewest first choice votes is eliminated, the votes of those who chose the eliminated candidate transfer to their next favorite candidate, and the whole process repeats.</p>
+<p>If one candidate has a majority of the first choice votes, that candidate is the winner. Otherwise, the candidate who had the fewest first choice votes is eliminated, the votes of those who chose the eliminated candidate transfer to their next favorite candidate, and the whole process repeats.</p>
 
-<p>Full rank ordering makes for a complex ballot - essentially a NxN matrix to assign each candidate a rank position. In practice, IRV proponents advocate a limit of three choices on the ballot. An example ballot might look like this:
+<p>Full rank ordering makes for a complex ballot - an NxN matrix to assign each candidate a rank position. In practice, IRV proponents advocate a limit of three or four choices on the ballot. An example ballot might look like this:
 
 <p><img src="IRV_Ballot.png" alt="IRV_Ballot.png" /></p>
 
-<p>In IRV, a voter who assigns the same rank to multiple candidates or multiple ranks to the same candidate spoils the ballot. <strong>Score Runoff Voting has a more expressive, harder to spoil ballot, and a much simpler counting process,</strong> so much so that the fundamental rules can be clearly communicated in two short sentences. And SRV's ballot scales effectively to any number of candidates:
+<p>In IRV, a voter who assigns the same rank to multiple candidates or multiple ranks to the same candidate spoils the ballot, and as more candidates enter the race, a voter's ability to express a meaningful opinion on the field diminishes.
+
+<p>Score Runoff Voting has a <strong>more expressive, harder to spoil ballot, and a simpler counting process,</strong> such that the fundamental rules can be clearly communicated in two short sentences. SRV's ballot scales effectively to any number of candidates:
 
 <p><img src="SRV_Ballot_irv.png" alt="SRV_ballot.png" /></p>
 
@@ -17,27 +19,24 @@ Instant Runoff Voting, one of many forms of Ranked Choice Voting, is a system in
 <p>Because IRV's counting algorithm goes through one round for each losing candidate until a winner is decided, elections can take many rounds to compute. The image below represents a sample election vote tally in the multi-round IRV process. It's hard for observers and lay voters to draw meaningful conclusions about voter preferences from these intermediate results:
 
 <p><img src="IRV_results.png" alt="IRV_results.png" /></p>
-<p><strong>Score Runoff Voting is simple to tabulate and accurately shows overall popular support for every candidate.</strong> It is always completed in two rounds with transparent results. You can see the election results of the sample election run with SRV below:
+<p><strong>Score Runoff Voting is simple to tabulate</strong>. It is always completed in two rounds with transparent results that show overall popular support for every candidate. You can see the election results of the sample election run with SRV below:
 <p><img src="SRV_results_vs_IRV.png" alt="SRV_results_vs_IRV.png" /></p>
 
-Because a voter's second choice in IRV is never considered until her first choice is eliminated, IRV results tend to "shadow" support for lesser-known candidates. In the 2012 Manhattan exit poll study, Instant Runoff Voting and Score Voting were included in the alternative voting methods studied. The following bar chart demonstrates quite clearly how the IRV shadow can hide public support for candidates other than the two frontrunners:<br>
+Because a voter's second choice in IRV is never considered until her first choice is eliminated, IRV results tend to "shadow" support for lesser-known candidates. In the 2012 Manhattan exit poll study, Instant Runoff Voting and Score Voting were included in the alternative voting methods studied. Although the district is clearly not politically representative of the population as a whole, the following bar chart demonstrates quite clearly how the IRV shadow can hide public support for candidates other than the two frontrunners:<br>
 <img src="RIRV_Occupy.001.jpg">
 
-<p>The winner of an IRV election cannot be tabulated until all ballot information is reported to a central location. Maine, which just passed IRV, is dealing with the <a href="http://www.pressherald.com/2016/11/11/logistics-could-put-ranked-choice-voting-on-hold-in-2018/">headaches of this system now</a>, expecting that "ballots would have to be shipped by town clerks to a central location in Augusta for additional voting rounds. Thus the outcome of an election in a multiple-candidate race might not be known for several weeks." Essentially, each town clerk has to come up with all of the many possible combinations of ballots and report the count for each one, in order that the central counting authority can even begin the count. And these partial results give very little direct meaningful information to the voters. A small subset of one election's partial results in IRV might look like this:</p>
+<p>The winner of an IRV election cannot be tabulated until all ballot information is reported to a central location. Maine, which just passed IRV, is dealing with the <a href="http://www.pressherald.com/2016/11/11/logistics-could-put-ranked-choice-voting-on-hold-in-2018/">headaches of this system now</a>, expecting that "ballots would have to be shipped by town clerks to a central location in Augusta for additional voting rounds. Thus the outcome of an election in a multiple-candidate race might not be known for several weeks." Essentially, each town clerk has to come up with all of the many possible combinations of rank orderings and report the total for each, in order that the central counting authority can even begin the process to determine the winner. These partial results give very little direct meaningful information to the voters. A small subset of one election's partial results in IRV might look like this:</p>
 
 <p><img src="IRV_precinct.png" alt="IRV_precinct.png" /></p>
-<p><strong>Score Runoff Voting results can be summed by precinct</strong>, both the overall score as well as the preference totals for each candidate pair. This gives information that is much more useful in understanding how the local electorate felt about the election, is considerably easier to hand-recount, and means much less data needs to be passed up for centralized counting. See below - both the candidates' scores as well as the voters' preferences on the field are discernible:
+<p><strong>Score Runoff Voting results can be summed by precinct</strong>, both the overall score as well as the preference totals for each candidate pair. This gives information that is useful in understanding how the local electorate felt about the election and makes the results easier to verify by hand-recount:
 <p><img src="SRV_precinct.png" alt="SRV_precinct.png" /></p>
 
-
-<p><strong>But what about the Spoiler Inequality?</strong></p>
-
-<p>IRV's complexity would be a small price to pay if it produced an <a href="theequalvote#test">equal vote</a> amongst the voters. Unfortunately IRV fails on this count as well. Because it uses the full preference information of only some of the voters and "shadows" the subsequent preferences of voters who choose a frontrunner in first position, IRV still suffers from a more generalized form of the spoiler effect: an honest vote for one's favorite candidate first can cause the election of the voter's least favorite candidate. To see why this happens, check out the simple explanation in the video below:</p>
+<p>Complexity would be a small price to pay if it produced an <a href="theequalvote#test">equal vote</a> amongst the voters, but <strong>IRV does not pass the test of balance</strong>. Further, because IRV uses the full preference information of only some of the voters and "shadows" the subsequent preferences of voters who choose a frontrunner in first position, it still suffers from a more generalized form of the spoiler effect: an honest vote for one's favorite candidate first can cause the election of the voter's least favorite candidate. Watch:</p>
 
 https://www.youtube.com/watch?v=JtKAScORevQ
 
-<p>Score Runoff Voting uses both the overall candidate value (score) <strong>and</strong> the Ranked Choice of the voters, so minimizes to a negligible value, Favorite Betrayal.
+<p>Score Runoff Voting uses the overall value expression (scores) of the voters to determine the top two <strong>before</strong> using the voters' Ranked Choices in the runoff. This means you have minimal risk giving full support to your true favorite - if she makes it into the runoff, she is by definition a strong candidate.
 
-<p><strong>Finally, IRV just doesn't create an accurate outcome for the will of the electorate.</strong> SRV, on the other hand, is best in class for outcome accuracy. Learn more in the discussion of <a href="equal_systems_science">Voting Science</a>.
+<p>Finally, <strong>IRV doesn't come close</strong> to the top of the list in terms of creating outcomes that accurately match the will of the electorate. SRV, by contrast, is best in class for outcome accuracy. Learn more in the discussion of <a href="equal_systems_science">Voting Science</a>.
 
-<p>So whenever you hear someone advocate the adoption of Ranked Choice Voting, make sure they're talking about Score Runoff Voting, not Instant Runoff Voting. We know it sounds like nerdy grognard nitpicking, but (see above) it makes a huge difference. We strongly encourage real world <a href="http://fairvote.org">organizations</a> and <a href="http://www.rcvoregon.org/">reform campaigns</a> that might still be on the fence about which one is better to take a clear look at the significant delta between IRV and SRV (see above).
+<p>We strongly encourage real world <a href="http://fairvote.org">organizations</a> and <a href="http://www.rcvoregon.org/">reform campaigns</a> considering various RCV options to note the significant delta between IRV and SRV.
