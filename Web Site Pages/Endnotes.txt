@@ -22,10 +22,10 @@
 <hr />
 <p id="footnote5"><strong>Computing the shutout</strong></p>
 
-<p>Currently only members of the two major parties can participate in the primary election. According to May voter registration statistics, 30.9% of voters don't affiliate with either, and are therefore excluded from the contests that select the two frontrunner candidates for the general election. Further, a strong majority of districts provide a single party enough of an advantage because of the imbalanced segregation of voters in the primary stage that its candidate always wins the general election. This silences another 19.7% of voters in the minority party in dominated districts.</p>
+<p>Currently only members of the Democratic and Republican parties can participate in meaningful primary elections. According to the November, 2016 voter registration statistics, 34% of voters don't affiliate with either, and are therefore excluded from the contests that select the two frontrunner candidates for the general election. Further, a strong majority of districts provide a single party enough of an advantage because of the imbalanced segregation of voters in the primary stage that its candidate always wins the general election. This silences another 17.1% of voters in the minority party in dominated districts.</p>
 
 <p>That's actually more than half of us. Without a voice of representation in a "representative democracy." Hmm...</p>
-<p>You can download <a href="https://d3n8a8pro7vhmx.cloudfront.net/unifiedprimary/pages/1/attachments/original/1401732693/ShutoutMath.xlsx?1401732693">the spreadsheet</a> that computes this result.</p>
+<p>The spreadsheet that computes these results from Oregon's published voter registration data and the computer program that generates the nifty colored maps can be accessed at <a href="https://github.com/nardo/Equal.Vote/tree/master/Shutout%20Calculator">this GitHub repository</a>.</p>
 
 <hr />
 <p> </p>
