@@ -5,7 +5,7 @@
 <p>The <a href="#plurality">root of the problem</a> is our reliance on an archaic, misrepresentative voting method that has persisted since before the beginning of the country. We're <a href="#plan">starting at the local level</a>, then working statewide and nationally, to fundamentally reboot our electoral process and bring the equal vote and true representative democracy to the U.S. for the first time. 
 
 <p>We are proposing a new system, <a href="#srv">Score Runoff Voting</a>, that gives us a radically more expressive ballot and an equal weight vote in order to solve the fundamental problem of our Republic. Check it out:
-<p><img src="equal_vote_vision.jpeg">  
+<p><img src="Equal_vote_vision.png">  
 <p>We'll get into the details in a bit, but first...
 
 <p><strong>The Problem:</strong>
@@ -36,15 +36,15 @@
 
 <p>We propose a new voting system, <a href="about>invented in 2014</a> by some of the nation's top voting reform experts. Instead of limiting the voter to supporting just one of the candidates, Score Runoff Voting allows voters to rate all the candidates just like we rate books on Amazon, restaurants on Yelp and songs on iTunes. Whether we've seen the Olympics or ever been graded on a homework assignment, scoring is a thoroughly-understood, ubiquitous method of expressing a fine degree of opinion on a subject.
 
-<img src="SRV_ballot.png">
+<img src="SRV_sample_ballot.png">
 
 <p> The winner is determined in two steps. First, all the scores for all the candidates are added up. A hypothetical first stage election result might look like this:</p>
 
 <p><img src="SRV_results_stage_1.png">
 
-<p>The second step is an instantaneous runoff between the two highest scoring candidates. <strong>In the runoff, your full vote goes to whichever of the top two you rated higher</strong>.
+<p>The second step is an automatic runoff between the two highest scoring candidates. <strong>In the runoff, your full vote goes to whichever of the top two you rated higher</strong>.
 
-<p>In the election above, Desi and Bianca advance to the instant runoff because they are the two top scorers. So if your ballot looked like the one above, your full runoff vote would go to Bianca, because you gave her a 9 and you gave Desi a 5. <strong>The existence of the runoff step makes the scoring more honest</strong>: you have an incentive to differentiate candidate scores in order to have a voice in the second step.
+<p>In the election above, Desi and Bianca advance to the automatic runoff because they are the two top scorers. So if your ballot looked like the one above, your full runoff vote would go to Bianca, because you gave her a 9 and you gave Desi a 5. <strong>The existence of the runoff step makes the scoring more honest</strong>: you have an incentive to differentiate candidate scores in order to have a voice in the second step.
 
 <p><strong>Compare Options for Reform</strong>
 
