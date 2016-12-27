@@ -1,9 +1,11 @@
+<p><h1><strong>RCV options: IRV and SRV compared</strong></h1>
+
 <div id="IRV"></div>
-Instant Runoff Voting, one of many forms of Ranked Choice Voting, is a system invented in 1871 that has been adopted (and in some cases repealed) in several large U.S. cities, the state of Maine, and is used in national elections elsewhere in the world. Instead of limiting the voter to the choice of a single candidate, or allowing the voter to score all the candidates like <a href="srv#srv">SRV</a>, IRV uses a preference order only ballot: first choice, second choice, third choice and so on.</p>
+Instant Runoff Voting is one of many forms of Ranked Choice Voting. Instead of limiting the voter to the choice of a single candidate, or allowing the voter to score all the candidates like <a href="srv#srv">SRV</a>, IRV uses a preference order only ballot: first choice, second choice, third choice and so on.</p>
 
 <p><strong>The Rules and the Ballot</strong>
 
-<p>If one candidate has a majority of the first choice votes, that candidate is the winner. Otherwise, the candidate who received the fewest first choice votes is eliminated, the votes of those who chose the eliminated candidate transfer to their next favorite candidate, and the whole process repeats.</p>
+<p>In IRV, if one candidate has a majority of the first choice votes, that candidate is the winner. Otherwise, the candidate who received the fewest first choice votes is eliminated, the votes of those who chose the eliminated candidate transfer to their next favorite candidate, and the whole process repeats.</p>
 
 <p>Full rank ordering makes for a complex ballot - an NxN matrix to assign each candidate a rank position. In practice, IRV proponents advocate a limit of three or four choices on the ballot. An example ballot might look like this:
 
@@ -16,7 +18,7 @@ Instant Runoff Voting, one of many forms of Ranked Choice Voting, is a system in
 <p><img src="SRV_ballot.png" alt="SRV_ballot.png" /></p>
 
 <p><strong>The Equal Vote</strong>
-<p>Because of both its ballot format and counting algorithm, <strong>Instant Runoff Voting doesn't pass the <a href="theequalvote#test">test of balance</a></strong> that tells us quite obviously whether a voting system provides an equal weight vote to all the voters. If we are going to dedicate the time and effort necessary to reform our voting system, a fundamental requirement should be to ensure that "as nearly as is practicable," the weight given to every voter in the election is equal.
+<p>Because of both its ballot format and counting algorithm, <strong>Instant Runoff Voting doesn't pass the <a href="theequalvote#test">test of balance</a></strong> that tells us definitively that a voting system provides an equal weight vote to all the voters. If we are going to dedicate the time and effort necessary to reform our voting system, a fundamental requirement should be to ensure that "as nearly as is practicable," the weight given to every voter in the election is equal.
 <p>Score Runoff Voting passes the test of balance: every possible vote expression in both the scoring and automatic runoff stages has an equal, balancing expression.
 
 <p><strong>Counting Complexity</strong>
@@ -55,6 +57,13 @@ https://www.youtube.com/watch?v=JtKAScORevQ
 <p>By this measure, <strong>IRV doesn't come close</strong> to the top of the list. <a href="https://www.researchgate.net/publication/258164743_Frequency_of_monotonicity_failure_under_Instant_Runoff_Voting_Estimates_based_on_a_spatial_model_of_elections">Recent work by Robert Norman</a>, a mathematician at Dartmouth, suggests that IRV's topsy-turvy math issues would create non-representative outcomes in one in five close contests among three candidates and that with larger numbers of candidates, it would happen even more often. The 2009 Mayoral IRV election in Burlington, Vermont was one such sideways election, and the results <strong>led to the repeal of IRV</strong> in Burlington the next year.
 
 <p>SRV, by contrast, is <a href="equal_systems_science">best in class</a> for outcome accuracy.
+
+<p><strong>Strategic Voting</strong>
+<p>IRV advocates argue that <a href="http://www.fairvote.org/new_lessons_from_problems_with_approval_voting_in_practice">rating systems are vulnerable to tactical 'bullet voting'</a> - that is, support of just one candidate on the ballot in order to gain advantage for the voter's favorite choice. Essentially, any system where showing support for a second candidate harms one's first choice's chances of winning will cause voters to minimize support for anyone else.
+
+<p>Likewise, as shown above, rating advocates have demonstrated that in a significant number of IRV elections, giving full support to your favorite can actually help elect your least favorite candidate.
+
+<p>Score Runoff Voting <strong>breaks the tactical tradeoff between these camps</strong>. The runoff phase <a href="strategic_srv">reduces the incentive to score second choices tactically</a>. The scoring phase ensures that the two strongest candidates overall advance to the final runoff, which lets voters support their true favorites without worrying they'll be promoting a losing candidate over a stronger consensus choice. Win/win.
 
 <p><strong>Tried, yes. True?</strong>
 

@@ -1,28 +1,31 @@
-<p><strong>Most Rank Choice Voting Systems are Unequal and Proven "Unfair"</strong></p>
+<p>The choice of a single favorite, known as Plurality Voting, is the simplest <strong>Ranked Choice</strong> system. Other Ranked Choice systems like Instant Runoff Voting (IRV) allow the voter to rank multiple candidates in preference order. It turns out that with more than two candidates, ranking systems fail the equality test and are provably "unfair." This is why SRV only uses the Ranked Choice of the voters in the automatic runoff.
 
-<p>The choice of a single favorite, a system known as Plurality Voting, is the simplest <strong>ranking system</strong>. Other Rank Choice like Instant Runoff Voting (IRV) allow the voter to rank multiple candidates in preference order. It turns out that with more than two candidates, ranking systems fail the equality test and are provably "unfair." This is why SRV only uses the Rank Choice in the top two.
+<p><strong>Unequal.</strong> In rank-only ballot systems that don't require the voter to rank every candidate, the ballot itself is unequal, no matter the algorithm for computing the winner: it is impossible to construct <a href="theequalvote#test">balancing votes</a> for partial orderings of candidates. Ranked Choice implementations that fix the number of voter choices in each election are immediately unequal.</p>
 
-<p><strong>Unequal.</strong> In rank order only systems with more than two candidates, as long as the voter can't put two candidates at the same rank and is allowed to have a partially-ranked ballot, no matter the algorithm for computing the winner it is always possible to construct a rank ordering for which there is no counter-balancing order. If I bullet vote (rank only a single candidate first), there is no way for you to balance out my vote. Whether that unbalanceable choice gives the bullet voter more or less power depends on the algorithm used to compute the winner.</p>
+<p><strong>"Unfair."</strong> Kenneth Arrow, PhD., won the Nobel Prize for actually proving that it is impossible to construct a fair rank order voting system when there are more than two candidates. No matter what algorithm is used to tally the individual rankings. This Impossibility Theorem depressed voting scientists for a half a century, for it was interpreted as proof that democracy is provably impossible.</p>
 
-<p><strong>"Unfair."</strong> Kenneth Arrow, PhD., won the Nobel Prize for actually proving that it is impossible to construct a fair rank order voting system. No matter what algorithm is used to tally the individual rankings. This Impossibility Theorem depressed voting scientists for a half a century, for many took it as proof that democracy is provably impossible.</p>
-
-<p><strong>Rating Systems</strong> both preserve the equal weight criteria in elections with more than two choices, and don't fall under Arrow's Theorem. In rating systems, voters give each option an independent measure of value, and each measure of value has a counterbalancing opposite: my yes to your no or zero stars to your five.
+<p><strong>Rating Systems</strong> don't fall under Arrow's Theorem. In rating systems, voters give each option an independent measure of value, and each measure of value has a counterbalancing value: my yes to your no or zero stars to your five. Rating systems preserve the notion of equality of vote weight no matter how many candidates are in the race. 
 
 <p id="manhattan"><strong>The Evidence.</strong> A 2012 exit poll study conducted in Manhattan&rsquo;s 69th Assembly District substantiates the claim that minor party candidates are unfairly marginalized by today&rsquo;s system. Participants in the study were asked to re-cast their presidential votes using Plurality Voting and a variety of alternate voting methods, including Approval Voting on each candidate. The results were striking:</p>
 
 <p><img src="MinorPartyApproval.jpg" alt="MinorPartyApproval.jpg" /></p>
 
-<p>Although the district is clearly not philosophically representative of the public as a whole, the data demonstrate empirically that the single choice limitation overwhelmingly favors the two best-funded major party candidates, and that if voters are given the opportunity to rate each candidate equally and independently that all candidates will receive an accurate measure of voter support.</p>
+<p>Although the district is clearly not philosophically representative of the public as a whole, the single choice limitation empirically favors the two best-funded major party candidates. If voters are given the opportunity to rate each candidate equally and independently that all candidates will receive an accurate measure of voter support.</p>
 
-<p>This real-world data is backed by thorough election science analysis.</p>
+<p><strong>The Science</strong>. This real-world data is backed by thorough election science analysis.</p>
 
-<p><img src="Science.jpg" alt="Science.jpg" /></p>
+<p><img src="Science_Dude.png" alt="Science_Dude.png" /></p>
 
-<p>The field of decision science has advanced considerably in the 200+ years since the founding of the country. Princeton Mathematics PhD Warren Smith has characterized more than 50 different voting systems.</p>
+<p>The field of decision science has advanced considerably in the 200+ years since the founding of the country. Princeton Mathematics PhD Warren Smith has <a href="http://scorevoting.net/StratHonMix.html">characterized more than 50 different voting systems</a>.</p>
 
-<p>According his analysis, rated voting methods capture the top four spots as measured by both key performance measures of voting system efficacy: propensity to elect the Condorcet Winner, the candidate who would beat every opponent in a head to head contest, and minimization of net social regret at the outcome of the election with both strategic and honest voters.</p>
+<p>Dr. Smith measured voting systems by two key performance measures. First, its propensity to elect the so-called Condorcet Winner. The <a href="https://en.wikipedia.org/wiki/Condorcet_criterion">Condorcet Winner</a> is the one who would beat every other candidate in a head-to-head contest. The second measure, <a href="http://rangevoting.org/BayRegDum.html">Bayesian Regret</a> is a more comprehensive measure of the overall satisfaction of the simulated electorate at the outcome of the election. Systems that maximize the number of Condorcet Winners and minimize the electorate's simulated regret with both honest and strategic voters are best.
+
+<p>According to Dr. Smith's analysis, rating systems capture the top four spots as measured by <strong>both</strong> key performance measures of voting system efficacy.</p>
 
 <p><img src="Science_Data.jpg" alt="Science_Data.jpg" /></p>
 
-<p>#42 on the list? That's IRV. #41 on the list? That's the Plurality Top Two. If we modify the Top Two by removing the single choice limit in the first phase, we produce the second best election system he analyzed, yet keep the two-election simple ballot format of our current system.</p>
-<p>It's the clue at the top of the list that shows the way to the true breakthrough: a system that is both a scoring system and a Rank Choice system in the runoff phase. Dr. Smith's simulations treat that #1 system as a two-election process, and election science researchers are now simulating it as the one-election SRV. Early data indicate it is best in class for all systems analyzed. Enter <a href="srv#srv">Score Runoff Voting</a>.</p>
+<p><a href="srvvsirv">Instant Runoff Voting</a> is at #42 on the list. #41 is the <a href="srvvstoptwo">Plurality Top Two</a>. Removing the single choice limit in the first phase vaults a Top Two from #41 to #2.
+
+<p>It's the clue at the top of the list that shows the way to the full breakthrough: a two-phase, one-election hybrid of the Rating and Ranked Choice categories. Dr. Smith's simulations treated that best overall system as a two-election process, so election science researchers are now simulating it according to the one-election rules of Score Runoff Voting. Early results indicate it is among the best of all systems analyzed.
+<p>Science. <a href="srv#srv">It works</a>.</p>
+<br><br><br>
