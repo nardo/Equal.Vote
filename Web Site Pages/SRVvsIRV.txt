@@ -1,4 +1,4 @@
-<p><h1><strong>RCV options: IRV and SRV compared</strong></h1>
+<p><h3><strong>RCV options: SRV > IRV</strong></h3>
 
 <div id="IRV"></div>
 Instant Runoff Voting is one of many forms of Ranked Choice Voting. Instead of limiting the voter to the choice of a single candidate, or allowing the voter to score all the candidates like <a href="srv#srv">SRV</a>, IRV uses a preference order only ballot: first choice, second choice, third choice and so on.</p>
