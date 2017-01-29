@@ -50,7 +50,7 @@
 
 <img src="system_chart.png">
 
-<p>Ranked Choice Voting (RCV) systems, including Score Runoff Voting, use the voters' preference orders of the candidates to determine the winner. On every measure, <a href="SRVvsIRV">SRV is superior Instant Runoff Voting</a>, the RCV system that has been the focus of recent electoral reform efforts.
+<p>Ranked Choice Voting (RCV) systems, including Score Runoff Voting, use the voters' preference orders of the candidates to determine the winner. On every measure, <a href="SRVvsIRV">SRV is superior to Instant Runoff Voting</a>, the RCV system that has been the focus of recent electoral reform efforts.
 
 <p><em>Top Two</em> runoff systems have been adopted in several states including California and Washington. Compared to Top Two, SRV more accurately reflects the will of the voters and is less expensive for states to operate and for candidates to participate. <a href="SRVvsTopTwo">Read more about Score Runoff Voting versus Top Two systems</a>.
 <p><em>Approval Voting</em> and the more generalized Range Voting use the voter's rating of each candidate to determine the winner. Most rating systems don't also account for the voter's specific preferences between candidates. Because SRV uses the ranked preferences of the voters as well as their overall scores, <a href="SRVvsApproval">it answers the strategic voting criticisms</a> of Approval and Range Voting.
