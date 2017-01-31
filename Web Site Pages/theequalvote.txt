@@ -47,6 +47,10 @@
 
 <blockquote>“If we consider the situation of the men on whom the free suffrages of their fellow-citizens may confer the representative trust, we shall find it involving every security which can be devised or desired for their fidelity to their constituents. In the first place, as they will have been distinguished by the <strong>preference of their fellow-citizens</strong> (emphasis supplied).”</blockquote>
 
+<p>The choice of a single favorite, known as Plurality Voting, is the simplest <strong>Ranked Choice</strong> system. Other Ranked Choice systems like Instant Runoff Voting (IRV) allow the voter to rank multiple candidates in preference order. In rank-only ballot systems that don't require the voter to rank every candidate, the ballot itself is unequal, no matter the algorithm for computing the winner: it is impossible to construct balancing votes for partial orderings of candidates. Ranked Choice implementations that fix the number of voter choices in each election, whether to just one as in plurality voting or the three to four that are common with IRV, are immediately unequal.</p>
+
+<p>In <strong>Rating Systems</strong>, voters give each option an independent measure of value, and each measure of value has a counterbalancing value: my yes to your no or zero stars to your five. Rating systems preserve the notion of equality of vote weight no matter how many candidates are in the race.
+
 <p><strong>The Present Franchise Perpetuates Inequality in its Structure</strong>
 
 <p>Unfortunately, for any number of candidates beyond two, the voting franchise is structured in such a way as to embody <a href="srv">two orthogonal inequalities</a> in the weight of the vote expressions between voters. Not only do these pernicious inequalities run counter to the basic institutional requirement of equality of vote weight, they also lead quite naturally to the hyper partisan, special interest-dominated policy outcomes we see today.
