@@ -1,11 +1,13 @@
 <p><h3><strong>Traditional Instant Runoff or Version 2.0?</strong></h3>
 
+<h4>SRV is new IRV hybrid</h4>
+
 <div id="IRV"></div>
-Traditional Instant Runoff Voting (IRV) is the Ranked Choice O.G. - it's been used around the world and the states for more than a century. Score Runoff Voting (SRV) is a new kid on the block that uses an instant runoff to determine the final winner.
+Traditional Instant Runoff Voting (IRV) is the classic form of Ranked Choice — over more than a century, it's been used on and off in various places around the world. Score Runoff Voting (SRV) is a new hybrid version that combines score voting with an instant runoff to determine the final winner.
 
-<p><strong>Metrics For Comparison</strong>
+<h4>Metrics For Comparison</h4>
 
-<p>Equal.Vote evaluates voting systems according to five primary criteria: <strong> honesty, equality, accuracy, simplicity, </strong>and<strong> expressiveness </strong>. The narrative below describes and then compares IRV and SRV according to these five metrics.
+<p>Equal.Vote evaluates voting systems according to five primary criteria: <strong> honesty, equality, accuracy, simplicity, </strong>and<strong> expressiveness </strong>. The narrative below describes and then compares IRV and SRV according to these five metrics.</p>
 
 <div class="gray-box">
 <br>
@@ -15,13 +17,29 @@ Traditional Instant Runoff Voting (IRV) is the Ranked Choice O.G. - it's been us
 
 <p><img src="irv_srv_ballots.png" alt="irv_srv_ballots.png" /></p>
 
-IRV is one of many forms of Ranked Choice Voting that use a preference order ballot: first choice, second choice, third choice and so on. Because full rank ordering makes for a complex ballot (basically an N x N choice matrix for each office), IRV proponents typically advocate a limit of three or four choices on the ballot. SRV is a form of Ranked Choice that uses a score ballot: the voter can assign a level of support for each candidate, from zero to the maximum score.
+<h4>IRV uses rank-order ballot</h4>
+<p>
+IRV is one of many forms of Ranked Choice Voting that use a preference order ballot: first choice, second choice, third choice and so on. Because full rank ordering makes for a complex ballot (basically an N x N choice matrix for each office), IRV proponents typically advocate a limit of three or four choices on the ballot.
+</p>
 
+<h4>SRV uses a score ballot</h4>
+
+<p>
+SRV is a form of Ranked Choice that uses a score ballot: the voter can assign a level of support for each candidate, from zero to the maximum score.
+</p>
+
+<h4>Who gets to the final runoff?</h4>
 <p>Both IRV and SRV have a final instant runoff round to determine the winner. What differentiates the two system is how they determine which candidates are present in the final runoff.
+</p>
 
-<p>In IRV, the final contestants are determined by successively eliminating the candidate with the fewest first-choice votes amongst the voters. With each elimination, the votes of those who chose the eliminated candidate in top position transfer to the next choice on the ballot, until the final instant runoff that gives one candidate a majority of first choice votes amongst the ballots that remain.
+<h4>IRV uses multi-round elimination</h4>
 
-<p>In SRV, the final contestants are the two overall highest scoring candidates.
+<p>IRV determines the final contestants through a series of elimination rounds. In the first round, IRV counts only the top choice from each ballot. If no candidate has a majority, then the candidate with the fewest top votes gets eliminated. The ballots for that candidate are moved to their 2nd choice (if any is marked). In each successive round, the candidate with the fewest ballots in their column gets eliminated. Ballots from that column then move to their next choice among the candidates still remaining (if any). Once some candidate has a majority of the still-active ballots, they win the election.</p>
+
+<h4>SRV uses runoff between two top scoring candidates</h4>
+
+<p>In SRV, the final contestants are the two overall highest scoring candidates. The winner is the one with more ballots that show a preference for that candidate, based on those voters who gave a different score to each of the two.
+</p>
 
 <div class="gray-box">
 <br>
@@ -29,11 +47,17 @@ IRV is one of many forms of Ranked Choice Voting that use a preference order bal
 <br><br>
 </div>
 
-<p>Instant Runoff Voting proponents <a href="http://www.betterballotbenton.com/the-benefits">often make the inaccurate claim</a> that with IRV, "you can honestly rank candidates in order of choice without having to worry about how others will vote and who is more or less likely to win." In fact, you can only safely rank candidates honestly in IRV if your favorite either has no chance at all or is a very strong candidate. This video shows clearly how IRV suffers from a more general form of the vote-splitting spoiler effect:</p>
+<h4>With IRV, voters can't always vote safely for honest favorite as 1st choice</h4>
+
+<p>Instant Runoff Voting proponents <a href="http://www.betterballotbenton.com/the-benefits">often make the inaccurate claim</a> that with IRV, "you can honestly rank candidates in order of choice without having to worry about how others will vote and who is more or less likely to win." In fact, you can only safely rank candidates honestly in IRV if your favorite either has no chance at all or is a very strong candidate. Giving your top vote to your favorite in IRV can actually help elect your least favorite candidate. This video shows clearly how IRV suffers from a more general form of the vote-splitting spoiler effect:</p>
 
 https://www.youtube.com/watch?v=JtKAScORevQ
 
-<p>IRV advocates argue that <a href="http://www.fairvote.org/new_lessons_from_problems_with_approval_voting_in_practice">rating systems are vulnerable to tactical 'bullet voting'</a> - that is, support of just one candidate on the ballot in order to maximize the chance of one's favorite choice winning. Rating advocates have demonstrated that in a significant number of IRV elections, giving full support to your favorite can actually help elect your least favorite candidate.
+<h4>Plain score voting has potential strategic issues</h4>
+<p>IRV advocates argue that <a href="http://www.fairvote.org/new_lessons_from_problems_with_approval_voting_in_practice">rating systems are vulnerable to tactical 'bullet voting'</a> — that is, support of just one candidate on the ballot in order to maximize the chance of one's favorite choice winning. Another strategic degrading that could happen with score is maximizing and minimizing the scores of all the candidates in order to play it safe. That means score voting would become simply approval voting.
+</p>
+
+<h4>Score Runoff synthesizes the best of IRV and score and minimizes problems</h4>
 
 <p>Score Runoff Voting <strong>breaks the tactical tradeoff between these camps</strong>. The runoff phase <a href="strategic_srv">reduces the incentive to score second choices tactically</a>. The scoring phase ensures that the two strongest candidates overall advance to the final runoff, so you can honestly support your true favorite <strong>and</strong> second choice without worrying you'll be promoting a losing candidate over a stronger consensus choice <strong>or</strong> harming your favorite's chance of winning.
 
