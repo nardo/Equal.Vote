@@ -1,0 +1,11 @@
+Score Runoff Voting - Proportional Representation - SRV-PR – a Proportional Representation voting method that feels like SRV (Mark Frohnmayer, Seth Woolley, Sara Wolf's late night musings -- based almost entirely on re-weighted range voting).
+
+SRV-PR, like SRV, uses a score ballot, where the voter can assign a score to each candidate from zero to the maximum score (max).
+
+Each ballot (voter) starts off with full (1.0) "influence" just like in normal SRV.
+
+The scores on the ballots, multiplied by the ballot's influence are summed for each candidate, thus obtaining that candidate's total score.
+
+The two highest scoring candidates advance to an instant runoff. In the runoff, the voter's current influence goes to the candidate he or she scored higher. Whoever wins the runoff is considered a winner and removed from contention.
+
+After the vote, each ballot is given a new influence level, reduced in proportion to how much that ballot has "won" so far: new_influence = 1/(1 + sum/max) where sum is the sum of scores that ballot gives to the winners-so-far. For example, after the first round, any ballot giving the winner of the first seat the maximum score would have an influence of 1/2.
