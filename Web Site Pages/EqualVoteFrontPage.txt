@@ -34,7 +34,7 @@
 <div id="srv"></div>
 <p><strong>Enter Score Runoff Voting</strong>
 
-<p>We propose a new voting system, <a href="about>invented in 2014</a> by some of the nation's top voting reform experts. Instead of limiting the voter to supporting just one of the candidates, Score Runoff Voting allows voters to rate all the candidates just like we rate books on Amazon, restaurants on Yelp and songs on iTunes. Whether we've seen the Olympics or ever been graded on a homework assignment, scoring is a thoroughly-understood, ubiquitous method of expressing a fine degree of opinion on a subject.
+<p>We propose a new voting system, <a href="about>developed in 2014</a> by some of the nation's top voting reform experts. Instead of limiting the voter to supporting just one of the candidates, Score Runoff Voting allows voters to rate all the candidates similar to how we rate books on Amazon, restaurants on Yelp and songs on iTunes. Whether we've seen the Olympics or ever been graded on a homework assignment, scoring is a thoroughly-understood, ubiquitous method of expressing a fine degree of opinion on a subject.
 
 <img src="SRV_sample_ballot.png">
 
