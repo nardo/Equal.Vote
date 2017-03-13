@@ -5,7 +5,7 @@ Traditional Instant Runoff Voting (IRV) is the Ranked Choice O.G. - it's been us
 
 <p><strong>Metrics For Comparison</strong>
 
-<p>Equal.Vote evaluates voting systems according to five primary criteria: <strong> honesty, equality, accuracy, simplicity, </strong>and<strong> expressiveness </strong>. The narrative below describes and then compares IRV and SRV according to these five metrics.
+<p>Equal.Vote evaluates voting systems according to five primary criteria: <strong> <a href="#equality">equality</a>, <a href="#honesty">honesty</a>, <a href="#accuracy">accuracy</a>, <a href="#simplicity">simplicity</a>, </strong>and<strong> <a href="#expressiveness">expressiveness</a></strong>. The narrative below describes and then compares IRV and SRV according to these five metrics.
 
 <div class="gray-box">
 <br>
@@ -27,6 +27,20 @@ Traditional Instant Runoff Voting (IRV) is the Ranked Choice O.G. - it's been us
 
 <p>In SRV, the final contestants are the two overall highest scoring candidates.
 
+<div class="gray-box" id="equality">
+<br>
+<strong>Equality:</strong> Does the voting system provide an equal weight vote to every voter?
+<br><br>
+</div>
+
+<p><strong>SRV provides equal weight to the voters</strong>
+<p>Score Runoff Voting passes the <strong><a href="theequalvote#test">test of balance</a></strong> that tells us definitively that a voting system provides an equal weight vote to all the voters: every possible vote expression in both the scoring and automatic runoff stages has an equal, balancing expression.
+
+<p><strong>IRV doesn't pass the equal weight test</strong>
+
+<p>IRV's counting algorithm only takes into account the second and subsequent choices of <em>some</em> of the voters: those whose first choice candidate(s) have been eliminated, so in IRV, second choice votes only <em>ever</em> count for those voters who happen to see their first choice eliminated <em>before</em> their second choice. If you pick a strong consensus candidate second, but your first choice hangs around in the count longer, your second choice is never factored in by the IRV count. This has significant implications for honesty and accuracy as well.
+
+
 <div class="gray-box" id="honesty">
 <br>
 <strong>Honesty:</strong> Can the voter safely express her honest opinion on the ballot, and likewise, to what level does the system disincentivize voters from strategically voting insincerely in order to produce a better outcome?
@@ -39,26 +53,15 @@ Traditional Instant Runoff Voting (IRV) is the Ranked Choice O.G. - it's been us
 
 https://www.youtube.com/watch?v=JtKAScORevQ
 
+<p>Because IRV doesn't eliminate the spoiler effect, major parties can honestly propagandize against supporting up-and-coming third party candidates, <a href="http://www.fairvote.org/instant-runoff-voting-in-australia-guest-blog-from-ben-raue">as they do in Australia</a>: "This confusion is often encouraged by the major parties who do not want people to give a first preference to a minor party. In left-wing inner-city seats around Sydney and Melbourne, where the Greens are now challenging the hold of the Labor Party, Labor campaigners often will claim that a vote for the Greens would help the Liberal Party, sowing confusion about our electoral system, in order to bring progressive voters back to Labor."
+
 <p><strong>Plain Score Voting has potential strategic issues</strong>
 
 <p>IRV advocates argue that <a href="http://www.fairvote.org/new_lessons_from_problems_with_approval_voting_in_practice">rating systems are vulnerable to tactical 'bullet voting'</a> - that is, support of just one candidate on the ballot in order to maximize the chance of one's favorite choice winning. Rating advocates have demonstrated that in a significant number of IRV elections, giving full support to your favorite can actually help elect your least favorite candidate.
 
 <p><strong>SRV breaks the tradeoff</strong>
 
-<p>SRV's scoring phase ensures that the two strongest candidates overall advance to the final runoff, and the runoff phase <a href="strategic_srv">reduces the incentive to score second choices tactically</a>. With Score Runoff Voting, you can honestly support your true favorite <strong>and</strong> second choice without worrying you'll be promoting a losing candidate over a stronger consensus choice <strong>or</strong> harming your favorite's chance of winning.
-
-<div class="gray-box" id="equality">
-<br>
-<strong>Equality:</strong> Does the voting system provide an equal weight vote to every voter?
-<br><br>
-</div>
-
-<p><strong>SRV provides equal weight to the voters</strong>
-<p>Score Runoff Voting passes the <strong><a href="theequalvote#test">test of balance</a></strong> that tells us definitively that a voting system provides an equal weight vote to all the voters: every possible vote expression in both the scoring and automatic runoff stages has an equal, balancing expression.
-
-<p><strong>IRV doesn't pass the test</strong>
-
-<p>IRV's counting algorithm only takes into account the second and subsequent choices of <em>some</em> of the voters: those whose first choice candidate(s) have been eliminated, so in IRV, second choice votes only <em>ever</em> count for those voters who happen to see their first choice eliminated <em>before</em> their second choice. If you pick a strong consensus candidate second, but your first choice hangs around in the count longer, your second choice is never factored in by the system. This has implications for honesty above and accuracy below.
+<p>SRV's scoring phase ensures that the two strongest candidates overall advance to the final runoff, and the runoff phase <a href="strategic_srv">reduces the incentive to score second choices tactically</a>. With Score Runoff Voting, you can honestly support your true favorite <strong>and</strong> second choice without worrying you'll be promoting a losing candidate over a stronger consensus choice <strong>or</strong> unduly harming your favorite's chance of winning.
 
 <div class="gray-box" id="accuracy">
 <br>
@@ -75,7 +78,9 @@ https://www.youtube.com/watch?v=JtKAScORevQ
 <p>Score Runoff Voting simulates best-in-class in the several election method simulators that have included it. Across the board, with both honest voters and mixtures of strategic voters, SRV is <a href="equal_systems_science">"unquestionably a top-shelf method."</a>
 
 <p><strong>IRV offers middle-of-the-road representation accuracy</strong>
-<p>Traditional IRV, by contrast, doesn't come close to the top of the list. <a href="https://www.researchgate.net/publication/258164743_Frequency_of_monotonicity_failure_under_Instant_Runoff_Voting_Estimates_based_on_a_spatial_model_of_elections">Recent work by Robert Norman</a>, a mathematician at Dartmouth, suggests that IRV's topsy-turvy math issues would create non-representative outcomes in one in five close contests among three candidates and that with larger numbers of candidates, it would happen even more often. The 2009 Mayoral IRV election in Burlington, Vermont was one such sideways election, and the results <strong>led to the repeal of IRV</strong> in Burlington the next year.
+<p>Traditional IRV, by contrast, doesn't come close to the top of the list. <a href="https://www.researchgate.net/publication/258164743_Frequency_of_monotonicity_failure_under_Instant_Runoff_Voting_Estimates_based_on_a_spatial_model_of_elections">Recent work by Robert Norman</a>, a mathematician at Dartmouth, suggests that IRV's topsy-turvy math issues would create non-representative outcomes in one in five close contests among three candidates and that with larger numbers of candidates, it would happen even more often.
+
+<p>The 2009 Mayoral IRV election in Burlington, Vermont <a href="Burlington">demonstrates IRV's counting failure</a> with crystal clarity: Three strong candidates faced off - we'll call them A, B and C. A majority of voters expressed a preference for A over B, and a plurality of voters expressed a preference for A over C, yet the IRV count eliminated A before either B or C, and elected a candidate not supported by the majority. Not surprisingly, <strong>Burlington repealed IRV</strong> the next year.
 
 <div class="gray-box" id="simplicity">
 <br>
@@ -84,9 +89,10 @@ https://www.youtube.com/watch?v=JtKAScORevQ
 </div>
 
 <p><strong>The Ballots</strong>
-<p>For a small number of candidate choices, it's arguable whether scoring or rank ordering is simpler: if you only want to support one, bubbling in "first choice" or "top score" are essentially equivalent. As the number of candidates and choices increase, however, scoring becomes by far the simpler method, because each candidate can be considered individually, where ranking systems essentially require the voter to sort the candidates before filling out the ballot. As a Wikimedia board member <a href="http://rangevoting.org/REisenstadt.html">stated</a>:
+<p>For a small number of candidate choices, it's arguable whether scoring or rank ordering is simpler: if you only want to support one, bubbling in "first choice" or "top score" are essentially equivalent.
+<p>As the number of candidates and choices increase, however, scoring clearly becomes by the simpler method, because each candidate can be considered individually, where ranking systems essentially require the voter to sort the candidates before filling out the ballot. As a Wikimedia board member <a href="http://rangevoting.org/REisenstadt.html">stated</a>:
 
-<p>"I actually voted in an election conducted under a Condorcet method (specifically Schulze's beatpath method): the Wikimedia board election. There were more than a dozen candidates, and about the only way I could vote intelligently was to first rate them, then turn that into a ranked ballot. So obviously a rating-type ballot (where the second step was not needed) would be easier and quicker to cast."
+<p>"I actually voted in an election conducted under a Condorcet method (specifically <a href="https://en.wikipedia.org/wiki/Schulze_method">Schulze's beatpath method</a>): the Wikimedia board election. There were more than a dozen candidates, and about the only way I could vote intelligently was to first rate them, then turn that into a ranked ballot. So obviously a rating-type ballot (where the second step was not needed) would be easier and quicker to cast."
 
 <p><strong>Multi-round elimination is complex</strong>
 <p>The mechanism for tabulating IRV can remain opaque even for sophisticated voters. Steve Pond <a href="http://www.thewrap.com/awards/column-post/dont-believe-schmucks-24542/">wrote the following</a> about IRV after its adoption as the voting system for choosing Best Picture by the Motion Picture Academy: "A year and a half after the Academy went to a different system for counting Best Picture ballots, <strong>nominees and voters and campaigners still don't understand how it works.</strong> And it's driving me crazy."
@@ -108,8 +114,9 @@ https://www.youtube.com/watch?v=JtKAScORevQ
 <p><img src="IRV_precinct.png" alt="IRV_precinct.png" /></p>
 <p><strong>Score Runoff Voting results can be summed by precinct</strong>
 
-<p>SRV gives information that is useful in understanding how the local electorate felt about the election and makes the results easier to verify by hand-recount. In essence, each precinct sums the scores for each candidate, and creates a preference matrix tallying how many ballots prefer each candidate to each other candidate in the race. The central election authority can simply add up all the precinct sums and all of the precinct preference matrices. The final winner is determined by looking up the two top scoring candidates in the preference matrix to see which one more voters preferred.
-<p><img src="SRV_precinct.png" alt="SRV_precinct.png" /></p>
+<p>SRV gives information that is useful in understanding how the local electorate felt about the election and makes the results easier to verify by hand-recount. Each precinct sums the scores for each candidate and creates a preference matrix tallying how many ballots prefer each candidate to each other candidate in the race. The central election authority adds up all the precinct sums and all of the precinct preference matrices. The final winner is determined by looking up the two top scoring candidates in the final preference matrix to see which one more voters preferred.
+<p><img src="srv_precinct.png" alt="srv_precinct.png" /></p>
+<p><em><strong>Reading the preference matrix:</strong> each element in the matrix represents the voter preferences of one candidate over another. So the number "15" in the first row, second column means that 15 voters gave A ("A>" row label) a higher score than B (column label). The 10 in the second row, first column means that 10 voters gave B a higher score than A. The head-to-head total is A:15 to B:10.</em>
 
 <div class="gray-box" id="expressiveness">
 <br>
@@ -120,7 +127,7 @@ https://www.youtube.com/watch?v=JtKAScORevQ
 <p><strong>Ranking is more expressive than plurality</strong>
 <p>Our current voting system, where we are limited to picking a single favorite in each election, is the least expressive voting system humans have ever constructed. Instant Runoff Voting allows the voter to express an opinion on multiple candidates by placing them in preference order.
 
-<p><strong>Preference order alone leaves out information<strong>
+<p><strong>Preference order alone leaves out information</strong>
 <p>The same ordering <strong>A > B > C</strong> could mean that the voter thinks any of the following:
 
 <ul><li>A is an awesome candidate, B is mediocre and C is the devil incarnate</li>
