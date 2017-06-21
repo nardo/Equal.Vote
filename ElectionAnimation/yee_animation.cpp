@@ -66,6 +66,10 @@ int num_animation_steps = 256;
 float voter_distance[num_voters][MaxCandidates];
 float voter_distance_normalized[num_voters][MaxCandidates];
 int scores[num_voters][MaxCandidates];
+int scores321[num_voters][MaxCandidates];
+int tally1[MaxCandidates];
+int tally3[MaxCandidates];
+
 int star_scores[num_voters][MaxCandidates];
 int ranks[num_voters][MaxCandidates];
 int irv_ballot_pos[num_voters];
@@ -79,6 +83,7 @@ enum {
 	MethodScore = 2,
 	MethodSTAR = 3,
 	MethodVoronoi = 4,
+	Method321 = 5,
 	NumMethods
 };
 
@@ -158,6 +163,12 @@ void compute_ranks_and_scores(float pix_pos[2])
 			voter_distance_normalized[i][c] = (voter_distance[i][c] - min_distance) / (max_distance - min_distance);
 			
 			scores[i][c] = int((1 - voter_distance_normalized[i][c]) * (float(score_range) + 0.9999));
+			if(voter_distance_normalized[i][c] < 0.2)
+				scores321[i][c] = 1;
+			else if(voter_distance_normalized[i][c] < 0.6)
+				scores321[i][c] = 2;
+			else
+				scores321[i][c] = 3;
 		}
 		star_scores[i][ranks[i][0]] = score_range;
 		star_scores[i][ranks[i][num_candidates - 1]] = 0;
@@ -180,6 +191,8 @@ void run_election(float pix_pos[2])
 		total_score[c] = 0;
 		total_star_score[c] = 0;
 		tally[c] = 0;
+		tally1[c] = 0;
+		tally3[c] = 0;
 	}
 	
 	// compute the plurality and scorre winners
@@ -188,6 +201,11 @@ void run_election(float pix_pos[2])
 		tally[ranks[i][0]]++;
 		for(int c = 0; c < num_candidates; c++)
 		{
+			if(scores321[i][c] == 1)
+				tally1[c]++;
+			else if(scores321[i][c] == 3)
+				tally3[c]++;
+			
 			total_score[c] += scores[i][c];
 			total_star_score[c] += star_scores[i][c];
 		}
@@ -252,6 +270,8 @@ void run_election(float pix_pos[2])
 	}
 	winner[MethodIRV] = irv_leader;
 
+	// Compute the Star Voting winner
+	
 	int star_top_a = 0;
 	int star_top_b = 1;
 	
@@ -277,6 +297,51 @@ void run_election(float pix_pos[2])
 			tally_b++;
 	}
 	winner[MethodSTAR] = tally_a > tally_b ? star_top_a : star_top_b;
+	
+	// Compute the 321 winner
+	
+	int semi_finalists[3];
+	semi_finalists[0] = 0;
+	semi_finalists[1] = 1;
+	semi_finalists[2] = 2;
+	for(int c = 3; c < num_candidates; c++)
+	{
+		int f = c;
+		if(tally1[f] > tally1[semi_finalists[0]])
+		{
+			f = semi_finalists[0];
+			semi_finalists[0] = c;
+		}
+		if(tally1[f] > tally1[semi_finalists[1]])
+		{
+			int t = semi_finalists[1];
+			semi_finalists[1] = f;
+			f = t;
+		}
+		if(tally1[f] > tally1[semi_finalists[2]])
+			semi_finalists[2] = f;
+	}
+	int finalist1 = semi_finalists[0];
+	int finalist2 = semi_finalists[1];
+	if(tally3[semi_finalists[2]] < tally3[finalist1])
+	{
+		if(tally3[finalist1] < tally3[finalist2])
+			finalist2 = semi_finalists[2];
+		else
+			finalist1 = semi_finalists[2];
+	}
+	else if(tally3[semi_finalists[2]] < tally3[finalist2])
+		finalist2 = semi_finalists[2];
+	int f1tally = 0;
+	int f2tally = 0;
+	for(int i = 0; i < num_voters; i++)
+	{
+		if(scores321[i][finalist1] < scores321[i][finalist2])
+			f1tally++;
+		else if(scores321[i][finalist2] < scores321[i][finalist1])
+			f2tally++;
+	}
+	winner[Method321] = f1tally > f2tally ? finalist1 : finalist2;
 }
 
 image<width, height> img;
@@ -511,7 +576,7 @@ int main(int argc, const char **argv)
 	float gauss = 0.5;
 	setup_voters(gauss);
 	img.clear(black);
-	render_explanatory_anim_frames();
+	//render_explanatory_anim_frames();
 	
 	for(num_candidates = 3; num_candidates <= 5; num_candidates++)
 	{
