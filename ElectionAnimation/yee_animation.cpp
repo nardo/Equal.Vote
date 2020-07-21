@@ -7,7 +7,7 @@
 #include "smith_random.h"
 #include "image.h"
 
-#define PI 3.14159265358979323844
+#define PI 3.14159265358979323846
 
 enum { MaxCandidates = 6, num_voters = 4096, score_range = 5, width = 256, height = 256 };
 
